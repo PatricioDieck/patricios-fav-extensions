@@ -1,4 +1,4 @@
-# VS Code Extensions Overview
+# EXTENSIONS TO SAVE YOUR BRAIN
 
 These are VS Code extensions that have made my development life extremely easy and much faster. Tools like:
  - Automatic JSON to TypeScript for interacting with API interfaces
