@@ -7,7 +7,7 @@ These are VS Code extensions that have made my development life extremely easy a
  - GitLens for tracking Git
  - Indentation fold levels (amazing)
 
-have all been super useful. Below are my top picks, followed by the rest of the extensions I've profited from. Each one is CLICKABLE to DOWNLOAD RIGHT IN YOUR EDITOR.
+have all been super useful. Below are my top picks, followed by the rest of the extensions I've profited from. Each one is CLICKABLE to DOWNLOAD RIGHT IN YOUR EDITOR _(download this readme.md and then click the link in your editor)_.
 
 ## 🏆 Patricio's Top Picks
 - **🐍 [ms-python.python](vscode:extension/ms-python.python)**: The official Python extension for VS Code, providing rich support for Python development.
